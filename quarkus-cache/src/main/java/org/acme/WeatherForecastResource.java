@@ -10,7 +10,6 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import org.jboss.resteasy.annotations.Query;
 import org.jboss.resteasy.annotations.jaxrs.QueryParam;
 
 @Path("/weather")
